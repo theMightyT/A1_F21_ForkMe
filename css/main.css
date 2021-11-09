@@ -1,0 +1,13 @@
+.hidden {
+    display: none;
+}
+.content {
+    border: thin dashed black;
+}
+
+p{
+    color: pink;
+}
+h2 {
+    color: red;
+}
